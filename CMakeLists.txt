@@ -8,3 +8,4 @@ include_directories(include)
 
 add_executable(main src/main.cpp)
 add_executable(xmpl src/xmpl.cpp)
+add_executable(xmpl02 src/xmpl02.cpp)
